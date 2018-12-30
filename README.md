@@ -1,5 +1,5 @@
 # OCR-Python
-This is the CODE by RItesh Kumar Maurya for [this video](https://youtube.com/RiteshKumarMaurya) on Youtube.
+This is the CODE by RItesh Kumar Maurya for [this video](https://youtu.be/fn7A50rBtD0) on Youtube.
 
 
 **Introduction:**
@@ -9,6 +9,6 @@ Tesseract is an Open Source library for Optical Character recognition(OCR). We w
 
 
 **SETUP:**
-Every detailed Step by Step process is given in the Python NoteBook and explained in [this video](https://youtube.com/RiteshKumarMaurya).
+Every detailed Step by Step process is given in the Python NoteBook and explained in [this video](https://youtu.be/fn7A50rBtD0).
 
 HOPE this Repository helped you guys. Please do STAR and FORK the repository and don't forget to follow me on [GitHub](https://github.com/MauryaRitesh) as well as on [YouTube](https://www.youtube.com/RiteshKumarMaurya).
