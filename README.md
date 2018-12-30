@@ -11,4 +11,4 @@ Tesseract is an Open Source library for Optical Character recognition(OCR). We w
 **SETUP:**
 Every detailed Step by Step process is given in the Python NoteBook and explained in [this video](https://youtube.com/RiteshKumarMaurya).
 
-HOPE this Repository helped you guys. Please do STAR and FORK the repository and don't forget to follow me on GitHub as well as on YouTube.
+HOPE this Repository helped you guys. Please do STAR and FORK the repository and don't forget to follow me on [GitHub](https://github.com/MauryaRitesh) as well as on [YouTube](https://www.youtube.com/RiteshKumarMaurya).
